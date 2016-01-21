@@ -2,6 +2,7 @@
 Tools of the Trade
 
 * [Rocket Chat](https://github.com/RocketChat/hubot-rocketchat) - Slack like chat application
+* [Dragula](https://github.com/bevacqua/dragula) - Drag and drop so simple it hurts
 * [Heatmap.JS](https://github.com/pa7/heatmap.js) - Webpage heatmap
 * [Rocket chat Robots](https://github.com/RocketChat/hubot-rocketchat) - AI for Chat
 * [Nude.JS](https://github.com/pa7/nude.js) - Nudity Filter
